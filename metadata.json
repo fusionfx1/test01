@@ -1,0 +1,6 @@
+{
+  "name": "Level Lending - Fixed-Rate Installment Loans",
+  "description": "Transparent, fixed-rate installment loans from $200 up to $5,000 without hidden surprise fees. Compare APRs and estimate monthly payments with zero credit score impact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
